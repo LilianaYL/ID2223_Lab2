@@ -1,6 +1,6 @@
 # ID2223 Lab2 Group 2333
 
-### Link to Huggingface:
+### Link to Hugging Face: https://huggingface.co/spaces/Yuxin020807/Iris
 
 ## Task 1
 Fine-Tune a pre-trained large language (transformer) model and build a serverless UI for using that model
