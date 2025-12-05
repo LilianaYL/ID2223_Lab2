@@ -1,0 +1,7 @@
+transformers>=4.40
+peft
+gradio
+torch
+python-dotenv
+unsloth
+duckduckgo-search
